@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../api-frontend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../spring-exercise"
+		},
+		{
+			"path": "../../angular-exercise"
+		}
+	],
+	"settings": {}
+}
